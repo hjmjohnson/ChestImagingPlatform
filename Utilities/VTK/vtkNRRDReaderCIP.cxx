@@ -50,6 +50,8 @@
 
 // Teem includes
 #include "teem/ten.h"
+#include <iostream>
+using namespace std;
 
 vtkStandardNewMacro(vtkNRRDReaderCIP);
 
