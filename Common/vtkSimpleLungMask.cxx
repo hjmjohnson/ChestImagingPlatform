@@ -37,6 +37,8 @@
 #include <vtkInformation.h>
 #include <vtkStreamingDemandDrivenPipeline.h>
 #include <math.h>
+#include <iostream>
+using namespace std;
 
 vtkStandardNewMacro(vtkSimpleLungMask);
 
